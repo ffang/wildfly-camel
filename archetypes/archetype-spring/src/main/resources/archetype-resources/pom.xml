@@ -145,6 +145,13 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+        <repository>
+            <id>camel-staging</id>
+            <url>https://repository.apache.org/content/repositories/orgapachecamel-1113/</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
     </repositories>
 
     <!-- Profiles -->
